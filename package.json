@@ -1,0 +1,19 @@
+{
+  "name": "current-time-format",
+  "version": "1.0.0",
+  "description": "A time format object package",
+  "author": "yang052513",
+  "license": "MIT",
+  "repository": "yang052513/current-time-format",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "build": "tsc -p .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
