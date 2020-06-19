@@ -1,13 +1,13 @@
-# react-current-time
+# current-time-format
 
-> Got tired with `const today = new Date()`? Now get access current time with nicely format easily!
+> A tiny javascript package that access current time componets easily (hour, date, month..etc)
 
 [![NPM](https://img.shields.io/npm/v/react-current-time.svg)](https://www.npmjs.com/package/react-current-time) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install react-current-time --save
+npm install current-time-format --save
 ```
 
 ## Usage
