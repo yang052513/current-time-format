@@ -68,16 +68,6 @@ const hh = initialZeroFormat(date.getHours())
 //Minutes
 const mm = initialZeroFormat(date.getMinutes())
 
-/**
- * Timestamp Format
- */
-
-//Style1: yyyy-MM-dd e.g. 2020-06-14
-const defaultStyle = `${yyyy}-${mmNumeric}-${dd}`
-
-//Style2: MMM dd hh:mm e.g. Jun 14 15:45
-const styleOne = `${mmStringShort} ${dd} ${hh}:${mm}`
-
 export const timeFormat = {
   year: yyyy,
   monthNum: mmNumeric,

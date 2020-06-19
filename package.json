@@ -1,7 +1,7 @@
 {
   "name": "current-time-format",
-  "version": "1.0.0",
-  "description": "A time format object package",
+  "version": "1.0.1",
+  "description": "A tiny javascript package that access current time componets in your javascript project easily.",
   "author": "yang052513",
   "license": "MIT",
   "repository": "yang052513/current-time-format",
